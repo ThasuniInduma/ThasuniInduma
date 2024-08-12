@@ -6,6 +6,10 @@
 
 <p align="center">
   I am an undergraduate student with a passionate to Java, dedicated to expanding my skills through hands-on experience with open-source projects and continuous learning in emerging technologies.
+  I'm always keen to learn, innovate, and collaborate on projects that push the boundaries of technology🚀.
+</p>
+<p>
+  Let's connect and create something remarkable together!🌟 
 </p>
 <br>
 
