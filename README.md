@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Thasuni Induma</h1>
 
 <p align="center">
-  I am an undergraduate student with a passionate to Java, dedicated to expanding my skills through hands-on experience with open-source projects and continuous learning in emerging technologies.
+  I am an undergraduate student with a passionate to Java.
   I'm always keen to learn, innovate, and collaborate on projects that push the boundaries of technology🚀.
 </p>
 <p>
