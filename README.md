@@ -6,7 +6,7 @@
 
 <p align="center">
   I am an undergraduate student with a passionate to Java.
-  I'm always keen to learn, innovate, and collaborate on projects that push the boundaries of technology🚀.
+  I'm always keen to learn, innovate, and collaborate on projects that push the boundaries of technology🚀
 </p>
 <p align="center">
   Let's connect and create something remarkable together!🌟 
