@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Springboot](https://img.shields.io/badge/springboot-%23ffffff.svg?style=flat&logo=springboot&logoColor=%2303943d) ![MySQL](https://img.shields.io/badge/mysql-%23ffffff.svg?style=flat&logo=mysql&logoColor=039BE5) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![github](https://img.shields.io/badge/github-%2320232a.svg?style=flat&logo=github&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Springboot](https://img.shields.io/badge/springboot-%23ffffff.svg?style=flat&logo=springboot&logoColor=%2303943d) ![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=flat&logo=figma) ![MySQL](https://img.shields.io/badge/mysql-%23ffffff.svg?style=flat&logo=mysql&logoColor=039BE5) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![github](https://img.shields.io/badge/github-%2320232a.svg?style=flat&logo=github&logoColor=white)
   <br><br>
 
 - 🌱 I’m currently learning **C++**
