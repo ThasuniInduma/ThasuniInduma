@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Springboot](https://img.shields.io/badge/springboot-%23ffffff.svg?style=flat&logo=springboot&logoColor=%2303943d) ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Dart](https://img.shields.io/badge/dart-%2302569B.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%23ffffff.svg?style=flat&logo=Flutter&logoColor=03c0ff) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express-%2320232a.svg?style=flat&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%23ffffff.svg?style=flat&logo=mysql&logoColor=039BE5) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![github](https://img.shields.io/badge/github-%2320232a.svg?style=flat&logo=github&logoColor=white) ![git](https://img.shields.io/badge/git-%2320232a.svg?style=flat&logo=git&logoColor=red) ![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=flat&logo=figma)
   <br><br>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React**
   
 - 💬 Ask me about **Java**
 
