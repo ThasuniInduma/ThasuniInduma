@@ -51,6 +51,9 @@ Here are some ideas to get you started:
   <a href="https://www.hackerrank.com/profile/indumathasuni" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="40"  />
   </a>
+  <a href="https://thasuniinduma.me" target="_blank">
+    <img src="https://thasuniinduma.me/logo.png" width="40" />
+  </a>
 </div>
 
 ###
